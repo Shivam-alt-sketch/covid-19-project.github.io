@@ -1,9 +1,12 @@
 https://lively-hill-0d83c8f10.1.azurestaticapps.net/
 
-#Description
+<h2>Description</h2>
 
-Project Name : COVID-19 Statistics Website
+<h3>Project Name :</h3> <h1>COVID-19 Statistics Website</h1>
 
+<div>
+  <p>Made with <h3>HTML , CSS and JavaScript</h3></p>
+</div>
 We all know that COVID-19 is a very dangerous virus and it has  created a pandemic all over the world.
 In this situation we have to get aware of the Infected Persons in our Country. So we have designed a website to create
 awareness about the COVID-19 among the people.
