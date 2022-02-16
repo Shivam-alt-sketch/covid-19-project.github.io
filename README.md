@@ -1,1 +1,1 @@
-https://thankful-ocean-0d047cd10.1.azurestaticapps.net/
+https://lively-hill-0d83c8f10.1.azurestaticapps.net/
